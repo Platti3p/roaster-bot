@@ -1,0 +1,434 @@
+[
+    {
+        "id": "b1180dc6991127f27b11a34a23993254",
+        "mapa": "Mirage",
+        "resultado": "Derrota 14-16",
+        "win": false,
+        "players": [
+            {
+                "name": "ARGOAT",
+                "kills": 27,
+                "deaths": 23,
+                "assists": 3,
+                "adr": 78.0,
+                "kast": 80.0,
+                "points": 235
+            },
+            {
+                "name": "brunooiraola_02",
+                "kills": 18,
+                "deaths": 23,
+                "assists": 8,
+                "adr": 76.0,
+                "kast": 73.0,
+                "points": 155
+            },
+            {
+                "name": "Huerque.",
+                "kills": 31,
+                "deaths": 20,
+                "assists": 3,
+                "adr": 103.0,
+                "kast": 67.0,
+                "points": 306
+            },
+            {
+                "name": "moskongo",
+                "kills": 12,
+                "deaths": 22,
+                "assists": 8,
+                "adr": 44.0,
+                "kast": 83.0,
+                "points": 90
+            },
+            {
+                "name": "Platti3p",
+                "kills": 21,
+                "deaths": 22,
+                "assists": 12,
+                "adr": 87.0,
+                "kast": 83.0,
+                "points": 211
+            }
+        ]
+    },
+    {
+        "id": "32d506e2efb20f5bbb499d111c075bb8",
+        "mapa": "Inferno",
+        "resultado": "Derrota 14-16",
+        "win": false,
+        "players": [
+            {
+                "name": "brunooiraola_02",
+                "kills": 26,
+                "deaths": 26,
+                "assists": 5,
+                "adr": 85.0,
+                "kast": 70.0,
+                "points": 232
+            },
+            {
+                "name": "Huerque.",
+                "kills": 22,
+                "deaths": 25,
+                "assists": 10,
+                "adr": 94.0,
+                "kast": 70.0,
+                "points": 202
+            },
+            {
+                "name": "moskongo",
+                "kills": 12,
+                "deaths": 25,
+                "assists": 4,
+                "adr": 34.0,
+                "kast": 53.0,
+                "points": 57
+            },
+            {
+                "name": "Pasti",
+                "kills": 27,
+                "deaths": 21,
+                "assists": 10,
+                "adr": 92.0,
+                "kast": 63.0,
+                "points": 289
+            },
+            {
+                "name": "Platti3p",
+                "kills": 22,
+                "deaths": 25,
+                "assists": 11,
+                "adr": 85.0,
+                "kast": 63.0,
+                "points": 206
+            }
+        ]
+    },
+    {
+        "id": "3ad1ad04f14b5eb7a6b969ec4ce41dc1",
+        "mapa": "Nuke",
+        "resultado": "Victoria 13-4",
+        "win": true,
+        "players": [
+            {
+                "name": "brunooiraola_02",
+                "kills": 21,
+                "deaths": 9,
+                "assists": 7,
+                "adr": 113.0,
+                "kast": 94.0,
+                "points": 280
+            },
+            {
+                "name": "Jumbo'",
+                "kills": 12,
+                "deaths": 6,
+                "assists": 2,
+                "adr": 49.0,
+                "kast": 82.0,
+                "points": 152
+            },
+            {
+                "name": "moskongo",
+                "kills": 14,
+                "deaths": 11,
+                "assists": 2,
+                "adr": 79.0,
+                "kast": 82.0,
+                "points": 160
+            },
+            {
+                "name": "Pasti",
+                "kills": 9,
+                "deaths": 9,
+                "assists": 6,
+                "adr": 71.0,
+                "kast": 88.0,
+                "points": 128
+            },
+            {
+                "name": "Platti3p",
+                "kills": 17,
+                "deaths": 9,
+                "assists": 4,
+                "adr": 111.0,
+                "kast": 100.0,
+                "points": 228
+            }
+        ]
+    },
+    {
+        "id": "3713cc11c1e9dfe54d41cf6512e705f4",
+        "mapa": "Dust2",
+        "resultado": "Derrota 3-13",
+        "win": false,
+        "players": [
+            {
+                "name": "brunooiraola_02",
+                "kills": 4,
+                "deaths": 15,
+                "assists": 4,
+                "adr": 49.0,
+                "kast": 50.0,
+                "points": 28
+            },
+            {
+                "name": "Jumbo'",
+                "kills": 12,
+                "deaths": 13,
+                "assists": 2,
+                "adr": 57.0,
+                "kast": 56.0,
+                "points": 118
+            },
+            {
+                "name": "moskongo",
+                "kills": 5,
+                "deaths": 16,
+                "assists": 3,
+                "adr": 45.0,
+                "kast": 50.0,
+                "points": 30
+            },
+            {
+                "name": "Pasti",
+                "kills": 15,
+                "deaths": 14,
+                "assists": 3,
+                "adr": 113.0,
+                "kast": 63.0,
+                "points": 172
+            },
+            {
+                "name": "Platti3p",
+                "kills": 7,
+                "deaths": 14,
+                "assists": 6,
+                "adr": 75.0,
+                "kast": 56.0,
+                "points": 86
+            }
+        ]
+    },
+    {
+        "id": "aac110dd9b2d3a38562e37fb48db6ff7",
+        "mapa": "Inferno",
+        "resultado": "Victoria 13-6",
+        "win": true,
+        "players": [
+            {
+                "name": "ARGOAT",
+                "kills": 14,
+                "deaths": 12,
+                "assists": 7,
+                "adr": 78.0,
+                "kast": 74.0,
+                "points": 168
+            },
+            {
+                "name": "brunooiraola_02",
+                "kills": 13,
+                "deaths": 13,
+                "assists": 4,
+                "adr": 75.0,
+                "kast": 84.0,
+                "points": 141
+            },
+            {
+                "name": "Jumbo'",
+                "kills": 15,
+                "deaths": 10,
+                "assists": 6,
+                "adr": 74.0,
+                "kast": 79.0,
+                "points": 179
+            },
+            {
+                "name": "Pasti",
+                "kills": 10,
+                "deaths": 12,
+                "assists": 2,
+                "adr": 48.0,
+                "kast": 74.0,
+                "points": 98
+            },
+            {
+                "name": "Platti3p",
+                "kills": 17,
+                "deaths": 10,
+                "assists": 4,
+                "adr": 93.0,
+                "kast": 89.0,
+                "points": 212
+            }
+        ]
+    },
+    {
+        "id": "c59aca8367863288d367afcaabeb28d1",
+        "mapa": "Nuke",
+        "resultado": "Victoria 13-3",
+        "win": true,
+        "players": [
+            {
+                "name": "brunooiraola_02",
+                "kills": 10,
+                "deaths": 9,
+                "assists": 4,
+                "adr": 62.0,
+                "kast": 75.0,
+                "points": 123
+            },
+            {
+                "name": "moskongo",
+                "kills": 8,
+                "deaths": 9,
+                "assists": 4,
+                "adr": 54.0,
+                "kast": 81.0,
+                "points": 105
+            },
+            {
+                "name": "Platti3p",
+                "kills": 19,
+                "deaths": 7,
+                "assists": 6,
+                "adr": 134.0,
+                "kast": 94.0,
+                "points": 284
+            }
+        ]
+    },
+    {
+        "id": "10a8b5d4c00256f5b17ebc365ef79498",
+        "mapa": "Mirage",
+        "resultado": "Derrota 9-13",
+        "win": false,
+        "players": [
+            {
+                "name": "CHICHIMOCO SKINS",
+                "kills": 20,
+                "deaths": 19,
+                "assists": 3,
+                "adr": 99.0,
+                "kast": 64.0,
+                "points": 200
+            },
+            {
+                "name": "Huerque.",
+                "kills": 25,
+                "deaths": 15,
+                "assists": 2,
+                "adr": 112.0,
+                "kast": 82.0,
+                "points": 276
+            }
+        ]
+    },
+    {
+        "id": "609763bd5f11c594b118cf7159774042",
+        "mapa": "Dust2",
+        "resultado": "Derrota 10-13",
+        "win": false,
+        "players": [
+            {
+                "name": "ARGOAT",
+                "kills": 19,
+                "deaths": 20,
+                "assists": 4,
+                "adr": 76.0,
+                "kast": 61.0,
+                "points": 173
+            },
+            {
+                "name": "CHICHIMOCO SKINS",
+                "kills": 12,
+                "deaths": 15,
+                "assists": 6,
+                "adr": 70.0,
+                "kast": 70.0,
+                "points": 120
+            },
+            {
+                "name": "Huerque.",
+                "kills": 10,
+                "deaths": 17,
+                "assists": 3,
+                "adr": 60.0,
+                "kast": 52.0,
+                "points": 83
+            },
+            {
+                "name": "Jumbo'",
+                "kills": 12,
+                "deaths": 17,
+                "assists": 4,
+                "adr": 51.0,
+                "kast": 70.0,
+                "points": 104
+            },
+            {
+                "name": "Royal Prestige",
+                "kills": 21,
+                "deaths": 14,
+                "assists": 5,
+                "adr": 93.0,
+                "kast": 70.0,
+                "points": 238
+            }
+        ]
+    },
+    {
+        "id": "52aef4eeadd41564b0f45dd9c73ad293",
+        "mapa": "Inferno",
+        "resultado": "Victoria 13-6",
+        "win": true,
+        "players": [
+            {
+                "name": "ARGOAT",
+                "kills": 13,
+                "deaths": 13,
+                "assists": 4,
+                "adr": 88.0,
+                "kast": 68.0,
+                "points": 149
+            },
+            {
+                "name": "CHICHIMOCO SKINS",
+                "kills": 10,
+                "deaths": 16,
+                "assists": 6,
+                "adr": 70.0,
+                "kast": 58.0,
+                "points": 101
+            },
+            {
+                "name": "Jumbo'",
+                "kills": 21,
+                "deaths": 8,
+                "assists": 4,
+                "adr": 97.0,
+                "kast": 84.0,
+                "points": 258
+            },
+            {
+                "name": "Platti3p",
+                "kills": 20,
+                "deaths": 12,
+                "assists": 3,
+                "adr": 103.0,
+                "kast": 74.0,
+                "points": 225
+            },
+            {
+                "name": "Royal Prestige",
+                "kills": 12,
+                "deaths": 12,
+                "assists": 2,
+                "adr": 60.0,
+                "kast": 89.0,
+                "points": 120
+            }
+        ]
+    }
+]

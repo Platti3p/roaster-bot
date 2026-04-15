@@ -1,0 +1,52 @@
+{
+    "mes": "2026-04",
+    "mapa": "Inferno",
+    "resultado": "Victoria 13-6",
+    "players": [
+        {
+            "name": "ARGOAT",
+            "kills": 13,
+            "deaths": 13,
+            "assists": 4,
+            "adr": 88.0,
+            "kast": 68.0,
+            "points": 149
+        },
+        {
+            "name": "CHICHIMOCO SKINS",
+            "kills": 10,
+            "deaths": 16,
+            "assists": 6,
+            "adr": 70.0,
+            "kast": 58.0,
+            "points": 101
+        },
+        {
+            "name": "Jumbo'",
+            "kills": 21,
+            "deaths": 8,
+            "assists": 4,
+            "adr": 97.0,
+            "kast": 84.0,
+            "points": 258
+        },
+        {
+            "name": "Platti3p",
+            "kills": 20,
+            "deaths": 12,
+            "assists": 3,
+            "adr": 103.0,
+            "kast": 74.0,
+            "points": 225
+        },
+        {
+            "name": "Royal Prestige",
+            "kills": 12,
+            "deaths": 12,
+            "assists": 2,
+            "adr": 60.0,
+            "kast": 89.0,
+            "points": 120
+        }
+    ]
+}
